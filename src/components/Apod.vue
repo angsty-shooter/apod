@@ -1,6 +1,6 @@
 <!-- NOTE this is the list of search results -->
 <template>
-
+<div>List of Results</div>
 </template>
 
 <script>
